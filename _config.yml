@@ -1,0 +1,28 @@
+name: theweeklymuscle
+favicon: null
+layout_spectrum: 0.38439050246961415
+typography_spectrum: 0.06276371353305876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9096906099002808
+  lightness: 0.6591056378092617
+  saturation: 0.04995199223048985
+  rhythmicContrast: 0.7742468346841633
+purpose: []
