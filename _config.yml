@@ -1,7 +1,7 @@
 name: theweeklymuscle
 favicon: null
-layout_spectrum: 0.38439050246961415
-typography_spectrum: 0.06276371353305876
+layout_spectrum: 0.49192
+typography_spectrum: 0.13705
 title: The Weekly Muscle
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9096906099002808
+    - '#051107'
+    - '#dedede'
+    - '#576959'
+    - '#3d3626'
+    - '#abafac'
+  brandStrength: 0.5
   lightness: 0.6591056378092617
-  saturation: 0.04995199223048985
+  saturation: 0
   rhythmicContrast: 0.7742468346841633
 purpose: []
